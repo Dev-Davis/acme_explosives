@@ -1,7 +1,7 @@
 # Acme Explosives
 
 ## Description
-A website to keep track of movies and their shooting locations
+A website to keep ...
 
 ## Screenshots
 

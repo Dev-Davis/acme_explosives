@@ -1,0 +1,28 @@
+{
+  "types": [
+      {
+          "id": "type0",
+          "category": "category0",
+          "name": "personal",
+          "description": "Fireworks intended for use during personal celebrations"
+      },
+      {
+        "id": "type1",
+        "category": "category1",
+        "name": "business",
+        "description": "Food supplies for company gatherings"
+      },
+      {
+        "id": "type3",
+        "category": "category2",
+        "name": "personal",
+        "description": "For personal or business use. Pray that all of their pain is champaign"
+      },
+      {
+        "id": "type5",
+        "category": "category3",
+        "name": "business",
+        "description": "Fireworks intended for use during holiday celebrations only"
+      }
+  ]
+}
