@@ -1,7 +1,8 @@
 # Acme Explosives
 
 ## Description
-A website to keep track inventory on explosives through the Acme company.
+
+A website to keep ...
 
 ## Screenshots
 
