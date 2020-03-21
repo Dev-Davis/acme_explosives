@@ -1,10 +1,46 @@
 {
-  "products": [{
-      "fairy_sparklers": {
-          "id": "product0",
-          "type": "type0",
-          "name": "Fairy Sparklers",
-          "description": "Multi-colored sparklers that are safe for any age."
+  "products": [
+    {
+    "Aerial Bomb":
+      {
+        "id": "product00",
+        "name": "Aerial Bomb",
+        "type": "type02",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/German_WW2_Bombs.jpg/220px-German_WW2_Bombs.jpg",
+        "description": "An aerial bomb is a type of explosive or incendiary weapon intended to travel through the air on a predictable trajectory, usually designed to be dropped from an aircraft. "
+      },
+    "Skyrocket":
+      {
+        "id": "product01",
+        "name": "SkyRocket",
+        "type": "type01",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bottle_Rockets.jpg/275px-Bottle_Rockets.jpg",
+        "description": "A skyrocket is a type of firework that uses a solid-fuel rocket to rise quickly into the sky."
+      },
+    "Bottle Rocket":
+      {
+        "id": "product02",
+        "name": "Bottle Rocket",
+        "type": "type00",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1229/2840/productucts/Black-Cat-Bottle-Rocket_grande.jpg?v=1479492697",
+        "description": "A bottle rocket is a very small skyrocket."   
+      },
+      "Cherry Bomb":
+      {
+        "id": "product03",
+        "name": "Cherry Bomb",
+        "type": "type02",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgsQT5IMe54wDZIM_DUzdFK3CeBJJyDCikpyyoMnhmqH7j-wzt",
+        "description": "A cherry bomb is an approximately spherical exploding firework."
+      },
+      "Xxplosive":
+      {
+        "id": "product04",
+        "name": "Xxplosive",
+        "type": "type02",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgsQT5IMe54wDZIM_DUzdFK3CeBJJyDCikpyyoMnhmqH7j-wzt",
+        "description": "This Xxplosive is the bomb diggity."
       }
-  }]
+    }
+  ]
 }

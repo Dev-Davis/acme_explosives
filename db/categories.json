@@ -1,20 +1,12 @@
 {
   "categories": [
-      {
-          "id": "category0",
-          "name": "fireworks"
-      },
-      {
-          "id": "category1",
-          "name": "Food"
-      },
-      {
-        "id": "category2",
-        "name": "Champaign"
-      },
-      {
-        "id": "category3",
-        "name": "entertainment"
-      }
+    {
+      "id": "category00",
+      "name": "Fireworks"
+    },
+    {
+      "id": "category01",
+      "name": "Bombs"
+    }
   ]
 }
